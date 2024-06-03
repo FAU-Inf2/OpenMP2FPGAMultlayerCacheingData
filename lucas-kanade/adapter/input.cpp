@@ -1,3 +1,8 @@
+/*
+Source: 
+Benchmark used by Ma et al. (https://doi.org/10.1109/ACCESS.2017.2750923)
+Available under https://github.com/HLSpolito/SDAccel_kernel_cache
+*/
 #include <cstdlib>
 #include <iostream>
 
