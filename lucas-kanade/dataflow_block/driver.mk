@@ -1,0 +1,5 @@
+OPENMP_INPUT = input.cpp
+COMPOSITION_FREQ = 70
+HOST_BINARY_FLAGS = $(SIZE) $(WINDOW_SIZE)
+OPTIMIZATION_FLAGS= --cache 262144:16:4
+include ~/compiler/common.mk

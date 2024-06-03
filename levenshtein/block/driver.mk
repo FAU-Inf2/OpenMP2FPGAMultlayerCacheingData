@@ -1,0 +1,4 @@
+COMPOSITION_FREQ = 100
+HOST_BINARY_FLAGS = $(DATA_SIZE)
+OPTIMIZATION_FLAGS= --cache 262144:16:4
+include ~/compiler/common.mk
